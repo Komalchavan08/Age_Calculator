@@ -10,5 +10,15 @@
  - JavaScript - logic to calculate the age
 
 🚀 How It Works
+ - User enters their date of birth in the input field.
+ - on clicking "Calculate Age", JavaScript processes the date.
+ - The calculated age (in years) is displayed below the button.
+
+🖼️ Screenshot
+**Valid Input Example**
+![Valid Screenshot](./sc valid.png)
+
+**Invalid Input Example**
+![Invalid Screenshot](./sc invalid.png)
 
 
