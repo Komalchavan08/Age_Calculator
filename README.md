@@ -14,11 +14,13 @@
  - on clicking "Calculate Age", JavaScript processes the date.
  - The calculated age (in years) is displayed below the button.
 
-🖼️ Screenshot
+🖼️ Screenshots
+
 **Valid Input Example**
-![Valid Screenshot](./sc valid.png)
+![Valid Screenshot](./screenshot_valid.png)
 
 **Invalid Input Example**
-![Invalid Screenshot](./sc invalid.png)
+![Invalid Screenshot](./screenshot_invalid.png)
+
 
 
