@@ -26,6 +26,16 @@
   <em>✅ Valid Input Result &nbsp;&nbsp;&nbsp; ⚠️ Invalid Date Alert</em>
 </p>
 
+### 🖼️ Screenshots
+
+<p align="center">
+  <img src="./screenshot_valid.png" alt="Valid Age Calculation" height="350" style="border-radius:10px; margin-right:10px;"/>
+  <img src="./screenshot_invalid.png" alt="Invalid Date Example" height="350" style="border-radius:10px;"/>
+</p>
+
+<p align="center">
+  <em>✅ Valid Input Result &nbsp;&nbsp;&nbsp; ⚠️ Invalid Date Alert</em>
+</p>
 
 
 
