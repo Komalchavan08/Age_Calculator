@@ -17,16 +17,17 @@
  - on clicking "Calculate Age", JavaScript processes the date.
  - The calculated age (in years) is displayed below the button.
 
-🖼️ **Screenshots**
+ 🖼️ **Screenshots**  
 
 <p align="center">
-  <img src="./Images/screenshot_valid.png" alt="Valid Age Calculation" height="320" style="border-radius:10px; margin-right:10px;"/>
-  <img src="./Images/screenshot_invalid.png" alt="Invalid Date Example" height="320" style="border-radius:10px;"/>
+  <img src="./Images/screenshot_valid.png" alt="Valid Input Result" width="45%" style="margin-right: 10px;" />
+  <img src="./Images/screenshot_invalid.png" alt="Invalid Date Alert" width="45%" />
 </p>
 
 <p align="center">
-  <em>✅ Valid Input Result &nbsp;&nbsp;&nbsp; ⚠️ Invalid Date Alert</em>
+  ✅ <b>Valid Input Result</b> &nbsp;&nbsp;&nbsp; ⚠️ <b>Invalid Date Alert</b>
 </p>
+
 
 
 
