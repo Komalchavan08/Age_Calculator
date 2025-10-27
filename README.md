@@ -20,7 +20,7 @@
 🖼️ **Screenshots**  
 
 <p align="center">
-  <img src="./Images/screenshot_valid.png" alt="Valid Input Result" width="45%" height="300px" style="margin-right: 10px; object-fit: cover; border-radius: 8px;" />
+  <img src="./Images/screenshot_valid.png" alt="Valid Input Result" width="45%" height="320px" style="margin-right: 10px; object-fit: cover; border-radius: 8px;" />
   <img src="./Images/screenshot_invalid.png" alt="Invalid Date Alert" width="45%" height="300px" style="object-fit: cover; border-radius: 8px;" />
 </p>
 
