@@ -20,8 +20,8 @@
 🖼️ **Screenshots**
 
 <p align="center">
-  <img src="./screenshot_valid.png" alt="Valid Age Calculation" height="320" style="border-radius:10px; margin-right:10px;"/>
-  <img src="./screenshot_invalid.png" alt="Invalid Date Example" height="320" style="border-radius:10px;"/>
+  <img src="./Images/screenshot_valid.png" alt="Valid Age Calculation" height="320" style="border-radius:10px; margin-right:10px;"/>
+  <img src="./Images/screenshot_invalid.png" alt="Invalid Date Example" height="320" style="border-radius:10px;"/>
 </p>
 
 <p align="center">
